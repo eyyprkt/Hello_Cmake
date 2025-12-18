@@ -1,1 +1,3 @@
-
+cmake_minimum_required(VERSION 3.20.0)
+project(Hello_Cmake)
+add_executable(Hello_Cmake hello.cpp)
